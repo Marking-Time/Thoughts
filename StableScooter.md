@@ -1,3 +1,4 @@
+[back to Thoughts](https://github.com/Marking-Time/Thoughts/tree/main)
 # Stable Scooter
 A method for stablizing two wheeled scooters at slow speeds
 ### Need
