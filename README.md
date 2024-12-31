@@ -20,7 +20,7 @@ __A Short Skills List:__
 __<p> The thoughts below are informed by the above</p>__
 
 ## Contents:
-[Stable Scooter]: https://github.com/Marking-Time/Thoughts/blob/main/StableScooter.md
+[Stable Scooter](https://github.com/Marking-Time/Thoughts/blob/main/StableScooter.md)
 
 
 
