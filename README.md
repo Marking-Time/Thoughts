@@ -16,8 +16,9 @@ __A Short Skills List:__
     + Hiking - I have hiked/backpacked hundreds of miles and spent months in the Sierras and other ranges. This includes both summer and winter expereince.
     + Tinkering/Handyman - I am comfortable using shop equipment and can build/maintain a variety of household systems.
     + Art - Often how something looks or how it makes you feel is as inportant as how it functions.
-    
+
 __<p> The thoughts below are informed by the above</p>__
 
 ## Contents:
+
 
