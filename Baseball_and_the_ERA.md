@@ -19,5 +19,11 @@ These are hard times
 It's a long list.  
 I think its time for the __Equal Rights Amendment__ to become law not simply because it solves problems, but because we love the game.
 
+git add .  
+git commit -m""  
+git push  
+
+
+
 
 
