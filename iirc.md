@@ -1,5 +1,6 @@
 [back to Thoughts](https://github.com/Marking-Time/Thoughts/tree/main)  
 # IIRC  
+1/19/2025
 If I Recall Correctly  
 
 If I recall correctly, Inintiative, Referendum and Recall are the law in many states.  
