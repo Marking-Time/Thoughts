@@ -20,8 +20,5 @@ The reason I'm writing about Low now is that it has been compromised.  It has be
     + An example you might have heard - I'm trying to help you. 
 - Homonyms - Sounds/spelled the same but has a differnt meaning.
     + Example - "You're so mean". > You're so average.
-- Characteristics - Referring to something by its characteristics
-    +  
-
-
-
+- Characteristics - Referring to something by its characteristics  
+    + 

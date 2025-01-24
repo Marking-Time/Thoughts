@@ -19,6 +19,8 @@ __A Short Skills List:__
 
 __<p> The thoughts below are informed by the above</p>__
 
+Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blob/main/disambiguation/disambiguation.md)
+
 ## Contents:
 [Stable Scooter](https://github.com/Marking-Time/Thoughts/blob/main/StableScooter.md)  
 [Baseball and the ERA](https://github.com/Marking-Time/Thoughts/blob/main/Baseball_and_the_ERA.md)  
