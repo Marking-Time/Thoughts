@@ -1,0 +1,15 @@
+{
+"home":{"meaning":"homeless", 
+        "associations":["fires","campfires","insurance","mortgages", "food", "drugs","tents - intensity - in tent city","tents"],
+        "opposed":{"hart":{"meaning":"homeless area response team",
+                           "symbol":"the heart shape"}},
+        "places":{"Ukraine":"You crane your neck",
+                  "Palastine":"Pal I'm stoned again",
+                  "Florida":"It is like living on the beach"}
+    },
+"drugs":{"meaning":{"religion": "religion is the opiate of the masses",
+                    "drug users":"people that lay on rugs to pray"},
+        "associations":["pastors","he maketh me lie down in green pastures","chruches", "mosques","tabernacles","rugs"]
+        }
+}
+
