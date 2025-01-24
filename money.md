@@ -43,7 +43,22 @@ These times are for all types of network traffic.
 
 [US Gross Domestic Product - 2024](https://www.bea.gov/sites/default/files/2024-12/gdp3q24-3rd.pdf)
 
-As you can see from the above data the US gross domestic product for 2024 is 29.37 Trillion US dollars ($29,370,000,000,000).
-![US Gross Domestic Product](USGDP.png)
+As you can see from the above data the US gross domestic product for 2024 is 29.37 Trillion US dollars ($29,370,000,000,000).  
 
+![US Gross Domestic Product](USGDP.png)  
+
+### Protocols
+
+It is the protocols that gave me this __thought__. Along with all of the above, the other thing that has an effect on this are the protocols that are used to process the transaction data.  Also, the deregulation of financial institutions has enabled the creation of "new" and "inovative" methods of processing transactions. After all, if you move fast and break things they (meaning us) will never notice anything is wrong.  
+
+I was doing some reading a few days ago and I came accross a link to the protocols that are used to process credit card transactoins. So considering my background I followed the link and looked at the protocol (I did look for it later, but was unable to locate it).  I was astounded at the level of complexity. I literally breathed a sigh of relief that I didn't have to do any work on anything that __involving__ it. It was some of the most technical stuff I have ever read.  It makes double entry accounting look simple.  
+
+As an accountant I figured it would be almost impossible to audit the system. It just takes too many skills for most people to accurately render an opinion after an audit. You would be left with "Just Trust Me", I would "never" do anything to hurt anyone.  
+
+## What I Think Hppened
+If someone had access to computer networks, deregulated financial markets and was able to take advantage of complex protocols, that person would be able to make alot of money.  
+
+__Consider This:__ If you had inside information on the business decisions that major corporations make then someone could make investments before the news hit the financial markets. Have you ever noticed how long it takes for for an email to reach a recipient? It is not very long, usually less than a minute. But that is plenty of time to have a computer algorythm identify the opportunuty and make a stock or option purchase. If you were a credit card company and had access to the  float of $931,000 that is available every second of evey day then you could work with free money, "Other Peoples Money". If you had both of the above and the ability to hide these transactoins in overly complex transaction protocols then you could get away with it.  After all how many accountants can program in more than a few languages. And, there are new languages, frameworks and protcol extensions issued all the time. This seems seems like a situation where __the bug is the feature.__  
+
+__A Possible example__. Paypal was among the vanguard in taking advantage of the newly degrgulated markets. They had access to networks, banks and the protocols. They also were accused of financial irregularities that involved both Peter Thiel and Elon Musk. You could even use that untraceable money to buy elections.
 
