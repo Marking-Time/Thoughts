@@ -3,7 +3,7 @@
 # Follow the Money
 It was said during Watergate that the way to find the truth was to "Follow the money".  I am educated as an accountant, so I thought I would use that training and apply it to our current situation.  
 
-## Some Cash History  
+### Some Cash History  
 Money used to be tracked by accountants and bookkeepers. Up until the early 1970s all tansactions were paper based.  A customer would pay in cash or write a paper check which was collected by the mechant and sent to the merchants bank at the end of the day with the daily cash deposit. Merchants used journals and ledgers to record these transactions which could be reconciled with the paper tapes produced by cash registers. In the case of cash that was it, you were done.  The audit trail was simple. (cash>cash regisgter tape> mechants cash journal>mechants bank desposit slip>the bank> mechants bank account)  
 
 
@@ -13,13 +13,13 @@ If the customers chack was from out of town, or from a different bank at in the 
 
 It was the customer's reputation with the merchant that made the check acceptable to the merchant. Banks could charge large fees for checks that had "insuficient funds". Those fees made sense due to the sometimes extensive physical paths that the checks followed and the time that it took to cellect a "bad check". It was a paper based transaction system.
 
-## Credit Cards  
+### Credit Cards  
 
 Early credit cards were not the cash equivilent that they are today. They were entirely paper bassed and were a credit instrument issued by a bank or a merchant like an oil company. The major change was that it was the reputation of the card's issuer and not the card holder that made them useful. A merchant could have confidence that they would be paid for the transaction because they trusted the issuer. The credit card company would pay the merchant upon receipt of the transaction and bill the customer at the end of the period, charging the customer interest on the money loaned. The audit trail was similar to that of a check except that the customer paid when they got the credit card statement (ACH>credit card company>customer).  
 
 Credit cards became useful beacause they provided assurances to the merchant that they would be paid.  
 
-## Computers  
+### Computers  
 
 Most transactions were paper based until mid 1980s when "Point of Sale"(POS) sytems began to at first augment and then replace the cash register. This along with banking deregualaion changed everything. By the year 2000 virtually every merchant, bank and credit card company were conected by electronic networks. That was the end of "float". Or was it?
 
@@ -31,14 +31,19 @@ It does take time for computers to communicate over a network. This time is call
 
 ![Ping of CNN.com](latency.png)  
 
-As you can see from the picture, the average time for my computer to send 32 bytes of data (about 32 letters in the english language) to CNN.com AND get a reply from CNN.com is 40 milli-seconds or 41/1000 of a second.  That's fast especially considering that my hardware and the network that I use is not state of the art. Both are old and slow.
+As you can see from the picture, the average time for my computer to send 32 bytes of data (about 32 letters in the english language) to CNN.com AND get a reply from CNN.com is 40 milli-seconds or 41/1000 of a second.  That's fast especially considering that my hardware and the network that I use are not state of the art. Both are old and slow.
 
 ### So This is the Question  
 
 I don't have network tools with me when I go about my business, so I count in alligators. One alligator equals one second. You caount it out loud "one alligator" "two alligators" "three alligators" equals 3 seconds. Why can I count to "three alligators" when I use my debit card at at Walmart when it only takes a few milli-seconds to send/process/recieve the data? Is the float back?  
 
+These times are for all types of network traffic.
 
+### Just a Little Math 
 
+[US Gross Domestic Product - 2024](https://www.bea.gov/sites/default/files/2024-12/gdp3q24-3rd.pdf)
 
+As you can see from the above data the US gross domestic product for 2024 is 29.37 Trillion US dollars ($29,370,000,000,000).
+![US Gross Domestic Product](USGDP.png)
 
 
