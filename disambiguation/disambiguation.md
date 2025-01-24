@@ -21,4 +21,23 @@ The reason I'm writing about Low now is that it has been compromised.  It has be
 - Homonyms - Sounds/spelled the same but has a differnt meaning.
     + Example - "You're so mean". > You're so average.
 - Characteristics - Referring to something by its characteristics  
-    + 
+    + Real Example: Birds have wings, beaks, feathers, eggs
+- Associations - What is associated with the thing being referenced
+    + Real Example: Birds are associated with air, wind
+- Languages - Other languages can be used to express an idea or word
+    + A complex example using Spanish: He is from Guatamala
+        - Opposite - He is she
+        - Guata mala - Guata - sounds like whata
+        - Guatamala - In Spanish mal means bad 
+        - Translation - She is a very bad.
+- Behaviors - How something acts can be a way to identify it. The meaning depends on the sender and the context.
+    + It can be a way of saying Hi
+    + It can be mocking
+    + Behaviors of birds: They fly, they peck on the ground and stick thier buts in the air, They fly away when startled (they are cowards)
+- Context - What makes Low so powerful is that it can masquerade as normal speech. This means all of the examples above can be taken in more than one way. They can be (but are not always) double entendres.
+- It is Extensible - It can be added to or can change over time and by context.
+
+### Final Thoughts
+Be __very careful__ with the above information.  It can get people hurt. You can get yourself hurt.  
+
+The above can get you started.  I have included a JSON file [here](this.json) for this stuff, so you can parse it algorythmicaly if you want to.  JSON has the advantage of being both human and machine readable.
