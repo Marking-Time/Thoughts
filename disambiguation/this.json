@@ -2,10 +2,11 @@
 "home":{"meaning":"homeless", 
         "associations":["fires","campfires","insurance","mortgages", "food", "drugs","tents - intensity - in tent city","tents"],
         "opposed":{"hart":{"meaning":"homeless area response team",
-                           "symbol":"the heart shape"}},
+                           "symbol":"the heart shape",
+                           "people":{"Patrick Mahome":"Kansas City Chiefs"}}},
         "places":{"Ukraine":"You crane your neck",
                   "Palastine":"Pal I'm stoned again",
-                  "Florida":"It is like living on the beach"}
+                  "Florida":"It is like living on the beach"}        
     },
 "drugs":{"meaning":{"religion": "religion is the opiate of the masses",
                     "drug users":"people that lay on rugs to pray"},
