@@ -36,7 +36,7 @@ Using this technology puts us in geopolitical peril. After all, it's easy to rol
 
 ### Final Thoughts
 
-Do NOT CALL ME ON YOUR __CELL PHONE__, you fucking whore.  
+DO NOT CALL ME ON YOUR __CELL PHONE__, you fucking whore.  
 
 Disambiguation to follow.
 
