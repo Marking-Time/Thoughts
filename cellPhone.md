@@ -1,4 +1,4 @@
-k to Thoughts](https://github.com/Marking-Time/Thoughts/tree/main)  
+[back to Thoughts](https://github.com/Marking-Time/Thoughts/tree/main)  
 1/25/2025
 # Cell Phones
 
