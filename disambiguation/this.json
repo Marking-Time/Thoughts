@@ -7,8 +7,9 @@
         "places":{"Ukraine":"You crane your neck",
                   "Palastine":"Pal I'm stoned again",
                   "Florida":"It is like living on the beach"},
-        "criminals":"animals"
-    },
+        "disambiguation":{"criminals":"animals - it's illegal to be homeless",
+                         "deportation":["detained", "locked behind a door","from the Spanish word for door - puerta, also portal","door to the gas chamber"]
+    }},
 "drugs":{"meaning":{"religion": "religion is the opiate of the masses",
                     "drug users":"people that lay on rugs to pray"},
         "associations":["pastors","he maketh me lie down in green pastures","chruches", "mosques","tabernacles","rugs"]
