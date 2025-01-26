@@ -28,7 +28,9 @@
             "Palestine": ["Pal I'm stoned again", "Gaza - you gaze because it looks bad"],
             "Florida": "It is like living on the beach"
         },
-        "dentention centers":["Airports", "Las Vegas"],
+        "dentention centers":{"Airports":"they can hide the activities behind security fences and it is hard to track flights",
+                            "Egypt ":"because __he gypted me__ and it's a reference to gypsys - who move around, making them hard to control through zoning laws. A refernce to fairgrounds used as dentention centers for the asians during WW2 ",
+                             "LasVegas":"A hot place in the desert where no one would look"},
         "disambiguation": {
             "criminals": "animals - it's illegal to be homeless",
             "deportation": [
