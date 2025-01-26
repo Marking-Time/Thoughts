@@ -18,14 +18,17 @@
                 "symbol": "the heart shape",
                 "people": {
                     "Patrick Mahome": "Kansas City Chiefs"
-                }
+                },
+                "methods":{"cleanup":"removing homeless from the street",
+                           "moving":"deportation"}
             }
         },
         "places": {
             "Ukraine": "You crane your neck",
-            "Palestine": "Pal I'm stoned again",
+            "Palestine": ["Pal I'm stoned again", "Gaza - you gaze because it looks bad"],
             "Florida": "It is like living on the beach"
         },
+        "dentention centers":["Airports", "Las Vegas"],
         "disambiguation": {
             "criminals": "animals - it's illegal to be homeless",
             "deportation": [
