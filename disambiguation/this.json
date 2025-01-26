@@ -19,18 +19,39 @@
                 "people": {
                     "Patrick Mahome": "Kansas City Chiefs"
                 },
-                "methods":{"cleanup":"removing homeless from the street",
-                           "moving":"deportation"}
+                "methods": {
+                    "cleanup": "removing homeless from the street",
+                    "moving": "deportation"
+                }
             }
         },
         "places": {
             "Ukraine": "You crane your neck",
-            "Palestine": ["Pal I'm stoned again", "Gaza - you gaze because it looks bad"],
+            "Palestine": [
+                "Pal I'm stoned again",
+                "Gaza - you gaze because it looks bad"
+            ],
             "Florida": "It is like living on the beach"
         },
-        "dentention centers":{"Airports":["they can hide the activities behind security fences and it is hard to track flights","Air Jordans - refers to birds"],
-                            "Egypt ":"because __he gypted me__ and it's a reference to gypsys - who move around, making them hard to control through zoning laws. A refernce to fairgrounds used as dentention centers for the asians during WW2 ",
-                             "LasVegas":"A hot place in the desert where no one would look"},
+        "detention centers": {
+            "Airports": [
+                "they can hide the activities behind security fences and it is hard to track flights",
+                "Air Jordans - refers to birds"
+            ],
+            "Egypt ": "because __he gypted me__ and it's a reference to gypsys - who move around, making them hard to control through zoning laws. A refernce to fairgrounds used as dentention centers for the asians during WW2 ",
+            "LasVegas": "A hot place in the desert where no one would look",
+            "El Salvador": {
+                "disambiguation": " Ador - Adorkable",
+                "associations": [
+                    "Mike Avedikian - have a dick again",
+                    "Fashion Furniture - partially owned by M.A.",
+                    "Fashion is code for fascist",
+                    "just Aryan trash",
+                    "Air",
+                    "birds"
+                ]
+            }
+        },
         "disambiguation": {
             "criminals": "animals - it's illegal to be homeless",
             "deportation": [
