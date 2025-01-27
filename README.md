@@ -28,7 +28,9 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [Climate Change](https://github.com/Marking-Time/Thoughts/blob/main/CLimateChange.md)   
 [Follow the Money](https://github.com/Marking-Time/Thoughts/blob/main/money.md)   
 [Cell Phones](https://github.com/Marking-Time/Thoughts/blob/main/cellPhone.md)  
-[Mini Whine](https://github.com/Marking-Time/Thoughts/blob/main/miniWhine.md)   
+[Mini Whine](https://github.com/Marking-Time/Thoughts/blob/main/miniWhine.md)  
+[Infrastructure](https://github.com/Marking-Time/Thoughts/blob/main/infrastucture.md)  
+ 
 
 
 
