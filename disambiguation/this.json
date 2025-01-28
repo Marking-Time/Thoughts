@@ -1,4 +1,5 @@
 {
+    "Note": "Much of this is self referential(meta). It is used as camouflage to disguise the person using it or their activity or association. It loops back on on itself",
     "home": {
         "meaning": "homeless",
         "associations": [
@@ -38,10 +39,10 @@
                 "they can hide the activities behind security fences and it is hard to track flights",
                 "Air Jordans - refers to birds"
             ],
-            "Egypt ": "because __he gypted me__ and it's a reference to gypsys - who move around, making them hard to control through zoning laws. A refernce to fairgrounds used as dentention centers for the asians during WW2 ",
+            "Egypt ": "because __he gypted me__ and it's a reference to gypsys - who move around, making them hard to control through zoning laws. A reference to fairgrounds used as detention centers for the Asians during WW2 ",
             "LasVegas": "A hot place in the desert where no one would look",
             "El Salvador": {
-                "disambiguation": " Ador - Adorkable",
+                "disambiguation": "Ador - Adorkable",
                 "associations": [
                     "Mike Avedikian - have a dick again",
                     "Fashion Furniture - partially owned by M.A.",
@@ -109,5 +110,63 @@
         }
     },
     "Naturals": "People that have not had their DNA changed",
-    "Programmers": "People that have gone through, or are in a program. There are programs for drug and alcohol abuse, behavior modification and other things. They often sign legal Non Disclosure Agreements to prevent the disclosure of information learned in the program. "
+    "Programmers": "People that have gone through, or are in a program. There are programs for drug and alcohol abuse, behavior modification and other things. They often sign legal Non Disclosure Agreements to prevent the disclosure of information learned in the program.",
+    "Royals": {
+        "Definition": "The Royal Family",
+        "Disambiguation": "Oil companies",
+        "Symbol": "Standard - the king's standard",
+        "Characteristics": {
+            "King": "Donald Trump",
+            "Heirs": {
+                "disambiguation": "Airs - Because they are waiting in the wings for their chance to be king",
+                "Characteristics": [
+                    "birds",
+                    "wings",
+                    "beaks - backs",
+                    "eggs",
+                    "feathers",
+                    "eyrie - nest",
+                    "chickens - layers - broilers",
+                    "cannibalism"
+                ],
+                "Prince": "Prince Harry - sounds like airy",
+                "Associations": [
+                    "air force",
+                    "wind - sounds like wing",
+                    "choking - can't breathe(-the air) - BLM",
+                    "Jeffery Epstein",
+                    "Jeffery Bezos - Amazon - shopping cart",
+                    "Airlines"
+                ],
+                "Prison gang": "Aryan Brotherhood - AB, It can also be found on the street"
+            }
+        },
+        "color": "blue - royal blue",
+        "number": [
+            "6 - six(sounds like sticks - used for choking)",
+            "9 - nine, German for no"
+        ],
+        "Places": [
+            "Kansas City(chiefs-royals)",
+            "London-(fog)"
+        ],
+        "Companies": [
+            "Standard Oil",
+            "Phillips 66",
+            "Boing Aerospace",
+            "Shell Oil"
+        ],
+        "Activities": [
+            "tennis",
+            "anything with a net",
+            "sports that have a high barrier to entry - to keep out the commoners",
+            "evolve",
+            "racing(racist) - cars"
+        ],
+        "Allies": [
+            "Egypt",
+            "Israel"
+        ],
+        "Note": "The royalty are associated with colonization during the _golden age_. This includes slavery, It also uses lies, and false promises to disguise the purpose of their intentions. It also associated with white supremacy(see Wikipedia for activities etc.). In the modern age the royals have lost their colonies/monopolies and they want them back."
+    }
 }
