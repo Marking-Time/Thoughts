@@ -150,6 +150,16 @@
             "Kansas City(chiefs-royals)",
             "London-(fog)"
         ],
+        "Estates": {
+            "disambiguation": "The state",
+            "motto": "states rights",
+            "references": [
+                "refers to the legal framework in which they operate",
+                "there are many states",
+                "oligarchies made of the super wealthy owners of companies and their heirs",
+                "where they live"
+            ]
+        },
         "Companies": [
             "Standard Oil",
             "Phillips 66",
@@ -167,6 +177,67 @@
             "Egypt",
             "Israel"
         ],
-        "Note": "The royalty are associated with colonization during the _golden age_. This includes slavery, It also uses lies, and false promises to disguise the purpose of their intentions. It also associated with white supremacy(see Wikipedia for activities etc.). In the modern age the royals have lost their colonies/monopolies and they want them back."
+        "Employees": {
+            "Palace Aids": "Palace Aids > Palisades",
+            "Palisades Fire": "This is the punishment for those employees that disagree with the royals - They burn you out > burn in hell"
+        },
+        "Schools": {
+            "Eaton": [
+                "Easton",
+                "ethnicity:Russian - founded by Russian emigrants - Their 'teachers _rush_ the homeless to move'"
+            ],
+            "Eaton Fire": "Similar to the Palisades Fire",
+            "Teachers": "> Prison guards are known as 'teachers' because they help the 'students to understand'."
+        },
+        "Note": "The royalty are associated with colonization during the _golden age_. This includes slavery, It also uses lies, and false promises to disguise the purpose of their intentions. It also associated with white supremacy(see Wikipedia for activities etc.). In the modern age the royals have lost their colonies/monopolies and they want them back.",
+        "Prisons": {
+            "Manzanar": {
+                "meaning": [
+                    " manzan > Spanish for apple",
+                    " R > the ninth letter counting from the back of the alphabet, also the number 6 on the telephone keypad - 69 is a royal number"
+                ],
+                "Historic": "A Japanese interment camp during WW2 - Chinatown - District 13",
+                "The Big Apple": [
+                    "New York City - NYC(kfc - from: Kentucky > can tuck it - refers to the method of disguise before transhumanism)",
+                    "aka: little apple > manzanita in Spanish",
+                    "Apple Computer"
+                ],
+                "Apple Computer": {
+                    "computers": "built by slave labor in prisons",
+                    "exploits": [
+                        "side channel",
+                        "man in the middle",
+                        "timing exploits - their historic times do not match up with actual times",
+                        "chip design flaws that allow 'third party code' to be run - likely crypto miners"
+                    ],
+                    "founder": "Steve Jobs - a prisoner must have a job"
+                },
+                "Appleton": [
+                    "Ray Appleton - talk show host at KMJ radio",
+                    "lives on circle(infinite loop) drive in 'old fig garden'",
+                    "known for 'conservative' politics"
+                ]
+            },
+            "Products": [
+                "small arms > steroids",
+                "NBC weapons - nuclear, chemical, biological",
+                "missiles - volleyball"
+            ],
+            "Valley Wide Beverage": {
+                "disambiguation": "volleyball",
+                "Products": [
+                    "alcohol",
+                    "chemical weapons"
+                ],
+                "Associations": [
+                    "part of the tribe - tribal",
+                    "American Ambulance",
+                    "Bulldogs"
+                ]
+            }
+        }
+    },
+    "The Tribe": {
+        "disambiguation": "Refers to the combination of Valley Wide Beverage, American Ambulance, The Bulldogs"
     }
 }
