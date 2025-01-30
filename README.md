@@ -30,6 +30,7 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [Cell Phones](https://github.com/Marking-Time/Thoughts/blob/main/cellPhone.md)  
 [Mini Whine](https://github.com/Marking-Time/Thoughts/blob/main/miniWhine.md)  
 [Infrastructure](https://github.com/Marking-Time/Thoughts/blob/main/infrastucture.md)  
+[Snooze Button](https://github.com/Marking-Time/Thoughts/blob/main/snooze.md)  
  
 
 
