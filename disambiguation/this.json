@@ -238,6 +238,128 @@
         }
     },
     "The Tribe": {
-        "disambiguation": "Refers to the combination of Valley Wide Beverage, American Ambulance, The Bulldogs"
+        "Tribal": "Refers to the combination of Valley Wide Beverage, American Ambulance, The Bulldogs and linux ",
+        "disambiguation": [
+            "tri is 3, but there are four elements in the tribe",
+            "The addition is linux > Linus Torvolds",
+            "Torvolds hacked into the tribe and became the fourth member"
+        ],
+        "People": {
+            "Pete Hegseth": {
+                "Accused of": [
+                    "Being drunk on the job > drunk is gronk > a football player ",
+                    "Molestation of women > molests by not liking them > he is gay"
+                ],
+                "Association": "Royal, Heir - wing",
+                "Current job": "Secretary of Defense",
+                "Seth": "choker - choked me out on H & San Benito - Stargate",
+                "Blake": [
+                    "Blake - Flake - Fake News - he will fake you out",
+                    "Sister Wives"
+                ]
+            },
+            "Mark Zuckerberg": {
+                "Association": [
+                    "Royal, Heir - Gene Hackman",
+                    "Fascism - facebook",
+                    "Cheryl Heberger, Cheryl Crow - BMJ, Cheryl - chair - ex",
+                    "Zacky farms - chicken processor"
+                ],
+                "Current job": [
+                    "facebook",
+                    "Stole the idea from me while at Baker, Manock and Jenson(BMJ) a Fresno Law firm",
+                    "Polititcaly confrontational site mostly abandoned by natural people"
+                ],
+                "Accused of": [
+                    "Being a script kiddie (son of gene hackman) - JavaScript",
+                    "stealing users' private data"
+                ],
+                "School": [
+                    "Fresno City College (FCC)",
+                    "On Harvard Street"
+                ]
+            },
+            "Donald Trump": {
+                "Linus Torvolds": {
+                    "Linux": [
+                        "Linux core - has malware implanted",
+                        "has been accused of prioritizing speed(racing) over security ",
+                        "primary server of the web and data centers",
+                        "The kernal > the heirforce colonel - street violence"
+                    ],
+                    "Tor": [
+                        "The onion router > cisco - Chinese slave labor",
+                        "used for pirating files",
+                        "child pornography"
+                    ],
+                    "Torvolds": [
+                        "volds > volleyball > Valley Wide Beverage",
+                        "Bulldogs"
+                    ],
+                    "Crypto Currency": [
+                        "Bitcoin - As Satoshi he has more than 50% of coins that are unaccounted for - can destroy the market",
+                        "wants to move the country to crypto"
+                    ],
+                    "Associations": [
+                        "BMJ - partner in charge of IT(I can't recall his name there) - had very bad security with all of the firms data open to the internet",
+                        "Cheryl Heburger - Office manager at BMJ"
+                    ],
+                    "Characteristics": [
+                        "arrogant - can't stop talking about himself",
+                        "a dancer",
+                        "insecure - a blanket carrying thumb(drive) sucker"
+                    ]
+                },
+                "Associations": [
+                    "The apprentice > you're fired > refers to burning the homeless",
+                    "Part of the tribe",
+                    "acting",
+                    "real estate - fraud",
+                    "income tax fraud"
+                ],
+                "Nickname": "The Chump > Chimp > The orange monkey"
+            },
+            "Anthony Fouci": {
+                "Accused of": [
+                    "creating the AIDs virus to attack gay people",
+                    "possible originator of Covid 19 and the bird flu"
+                ],
+                "Characteristics": [
+                    "a raspy voice",
+                    "coughing"
+                ]
+            },
+            "Will Smith": [
+                "street name - Cowboy - a real piece of shit",
+                "dog fighting",
+                "cockfighting"
+            ],
+            "Elon Musk": {
+                "Michael Avedikian": [
+                    "Fashion Furniture > fascist",
+                    "Elon Musk > Elongated Mustache - like Hitler"
+                ],
+                "Companies": [
+                    "Fashion Furniture",
+                    "Tesla",
+                    "Space X",
+                    "Twitter > X",
+                    "Solar Roofing",
+                    "Paypal"
+                ],
+                "Associations": [
+                    "Bulldogs > ball dogs > fetch (a linux command)",
+                    "Royal, Heir",
+                    "Valley Wide Berverage",
+                    "Transhumanism",
+                    "Armenia > Air(mean)ia > AB - prison gang"
+                ],
+                "Accused of": [
+                    "Money laundering - paypal",
+                    "Street violence - Bulldogs street gang",
+                    "none of his businesses are particularly successful - but the media sells the lie"
+                ]
+            }
+        }
     }
 }
