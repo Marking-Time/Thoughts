@@ -31,7 +31,7 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [Mini Whine](https://github.com/Marking-Time/Thoughts/blob/main/miniWhine.md)  
 [Infrastructure](https://github.com/Marking-Time/Thoughts/blob/main/infrastucture.md)  
 [Snooze Button](https://github.com/Marking-Time/Thoughts/blob/main/snooze.md)  
-[!=]()  
+[!=](https://github.com/Marking-Time/Thoughts/blob/main/notEqual.md)  
 
  
 
