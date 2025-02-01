@@ -2,7 +2,7 @@
 1/26/2025
 # Mini Whine
 
-I am a full stack developer. My preferred stack is html/CSS/JS/flask/python/JSON. It is fairly easy except for one problem.  I have to use two different programming languages, Python on the backend and Java Script(JS) on the front end.  
+I am a full stack developer. My preferred stack is html/CSS/JS/flask/python/JSON. It is fairly easy except for one problem.  I have to use two different programming languages, Python on the back end and Java Script(JS) on the front end.  
 
 ### One Language  
 

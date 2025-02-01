@@ -1,5 +1,5 @@
 {
-    "Notes": "A) Much of this is self referential(meta). It is used as camouflage to disguise the person using it or their activity or association. It loops back on on itself. B) There is some very negative stuff here and it is _vital_ to understand that all of this in not unified.  There is opposition and pushback. Not everyone who uses Low is bad, but you do have to be _very_ careful. C) This file is not complete or comprehensive.",
+    "Notes": "A) Much of this is self referential(meta). It is used as camouflage to disguise the person using it or their activity or association. It loops back on on itself. B) There is some very negative stuff here and it is _vital_ to understand that all of this in not unified.  There is opposition and push back. Not everyone who uses Low is bad, but you do have to be _very_ careful. C) This file is not complete or comprehensive.",
     "home": {
         "meaning": "homeless",
         "associations": [
@@ -19,12 +19,26 @@
                 "symbol": "the heart shape",
                 "people": {
                     "Patrick Mahome": "Kansas City Chiefs"
-                },
-                "methods": {
-                    "cleanup": "removing homeless from the street",
-                    "moving": "deportation"
                 }
             }
+        },
+        "Enforment actions": {
+            "Fires": [
+                "wildfires",
+                "access by public restricted",
+                "homeless run away > seen fleeing"
+            ],
+            "plane crashes": {
+                "Characteristics": [
+                    "(air)plane crash(barge into camp)",
+                    "access by public restricted",
+                    "people told not to help > hazardous debris",
+                    "homeless run away > seen fleeing"
+                ],
+                "Recent examples": "If you notice in one of the recent crashes the phrase 'The level of Air traffic controllers was not normal'. They were not on the level > they were different > not normal > They were duplicates of the regular cops that the homeless see all the time. There are two possible explanations. They were clones, or the use of special teams when doing enforcement activities."
+            },
+            "moving": "deportation",
+            "clean up": "deportation"
         },
         "places": {
             "Ukraine": "You crane your neck",
@@ -79,10 +93,14 @@
     },
     "Transhuman": {
         "meaning": "People that have had their DNA modified",
-        "AlternateNames": [
-            "Cell Phones",
-            "Snow Flakes"
-        ],
+        "Usage": {
+            "Clones": "Copies of a person to allow the person to be in two places at once",
+            "Modifcation": [
+                "A medical use of the technology allowing for the treatment of disease.",
+                "Body mods for appearance like weight loss, hair growth, or appearance - notice how many of the TV and movie celebrities have large beak-like noses? how they are all tall and thin?"
+            ],
+            "Tells": "In poker players often look for a 'tell' in other players to try to figure out what hand they have. This is often used by people in disguise to identify themselves to their friends or for 'brand identification'. It cold be many things like a way of walking, speaking, a color or article of clothing that they always wear. It is also used for gas-lighting Try get you to fear them"
+        },
         "associations": [
             "wild fires",
             "programmers",
@@ -258,6 +276,10 @@
                     "Sister Wives"
                 ]
             },
+            "Sig Hansen": [
+                "Deadliest Catch",
+                "The name of the show describes it well"
+            ],
             "Mark Zuckerberg": {
                 "Association": [
                     "Royal, Heir - Gene Hackman",
@@ -361,5 +383,13 @@
                 ]
             }
         }
+    },
+    "Gas-Lighting": "A terror tactic designed to make you think you are crazy or be afraid.  It can be an overheard conversation that 'strangely' corresponds to you. It can be used to set a mood - like a disagreeable person who just makes everything unpleasant - this is called 'cooling'. Gas-Lighting preys on peoples natural instinct to be pleasant or make themselves liked by purposefully being bad, while staying within the bounds of legal or 'acceptable' behavior. It is also used as an identifier. For example, the heirs(airs) will often make a reference to something related like the sky, birds, planes or wind(wing). it is often designed to be remembered, so that it stays with you for a while and you don't figure it out until later, if at all. It is often used by someone in power to make you feel helpless, while being deniable by the person using it. It is extremely damaging.",
+    "News": {
+        "Fake": "Much of the news is fake or altered in some way. If you look closely you can see the evidence of that. The pictures look strange - like one of the videos in the Philadelphia plane crash had a fireman(might have been police) that had his face blurred out.  Why would you blur out the face of someone trying to help?",
+        "Recent examples": [
+            "Tesla truck fire in Las Vegas - Why didn't the tires burn?. Why didn't the windows break",
+            "Hurricane aftermath photos taken the evening of the day of the event - No water lines on the buildings that were flooded. Debris neatly piled up on the street when most people were not even allowed to return to their homes?"
+        ]
     }
 }
