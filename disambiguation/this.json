@@ -131,7 +131,13 @@
     "Programmers": "People that have gone through, or are in a program. There are programs for drug and alcohol abuse, behavior modification and other things. They often sign legal Non Disclosure Agreements to prevent the disclosure of information learned in the program.",
     "Royals": {
         "Definition": "The Royal Family",
-        "Disambiguation": "Oil companies",
+        "Disambiguation": [
+            "Oil companies",
+            "BP - British Petroleum - 'The They'",
+            "Sinclair Gasoline",
+            "Home office - London England",
+            "Deepwater Horizon"
+        ],
         "Symbol": "Standard - the king's standard",
         "Characteristics": {
             "King": "Donald Trump",
@@ -270,15 +276,20 @@
                 ],
                 "Association": "Royal, Heir - wing",
                 "Current job": "Secretary of Defense",
-                "Seth": "choker - choked me out on H & San Benito - Stargate",
+                "Seth": [
+                    "choker - choked me out on H & San Benito - Stargate",
+                    "Eat, Shit, Comment"
+                ],
                 "Blake": [
                     "Blake - Flake - Fake News - he will fake you out",
                     "Sister Wives"
-                ]
+                ],
+                "Woody Harralson": "Actor"
             },
             "Sig Hansen": [
                 "Deadliest Catch",
-                "The name of the show describes it well"
+                "The name of the show describes it well",
+                "David Attenborough > Achtung Bureau/rough"
             ],
             "Mark Zuckerberg": {
                 "Association": [

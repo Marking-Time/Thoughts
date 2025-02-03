@@ -13,4 +13,6 @@ The way this is accomplished is through the Uniform Code of Military Justice or 
 When a person is made an officer in the military they take an oath to protect the Constitution of the United States. That is the source of their power and where their loyalties lie. It is their protection from politics.
      
 ### Civil Power  
-Civilians often misunderstand the special relationship between the our law and the laws of the military. 
+Civilians often misunderstand the special relationship between the our law and the laws of the military. The military is subject to civilian control, so they cannot make war on their own for their own purposes. This prevents them from taking control of politics and the country.   Only congress can declare war. No other political entity can do that. The military operates under this civilian framework. The military operates within this framework while protecting the constitution at the same time. It is a different arrangement of  power than the one we as civilians operate under. We obey they law while the military protects the constitution.  
+
+I wonder if the Orangutan understands this?  
