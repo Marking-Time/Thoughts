@@ -143,6 +143,23 @@
             "King": "Donald Trump",
             "Heirs": {
                 "disambiguation": "Airs - Because they are waiting in the wings for their chance to be king",
+                "animals": [
+                    "birds > live in air - have beaks",
+                    "pigs - snouts",
+                    "elephants - long noses",
+                    "dogs - English bulldog"
+                ],
+                "Numbers": {
+                    "7": "because it looks like a nose",
+                    "nose": [
+                        "large unattractive noses > look like wings",
+                        "elephants > republicans"
+                    ],
+                    "dates": [
+                        "Dec 7, 1941 - a date that will live in infamy > in family",
+                        "1776 > American R'evol'ution > evol - reference to evolve - the sports company - > one win win royalNumber"
+                    ]
+                },
                 "Characteristics": [
                     "birds",
                     "wings",
@@ -151,7 +168,8 @@
                     "feathers",
                     "eyrie - nest",
                     "chickens - layers - broilers",
-                    "cannibalism"
+                    "cannibalism",
+                    "Sky - birds fly in the sky"
                 ],
                 "Prince": [
                     "Prince Harry - sounds like airy",
@@ -160,7 +178,7 @@
                 "Associations": [
                     "air force",
                     "wind - sounds like wing",
-                    "choking - can't breathe(-the air) - BLM",
+                    "choking - can't breathe(-the air) - BLM > black lives (don't) matter",
                     "Jeffery Epstein",
                     "Jeffery Bezos - Amazon - shopping cart",
                     "Airlines"
@@ -242,13 +260,22 @@
                 "Royal blue > blue bloods - racists"
             ]
         },
-        "Activities": [
-            "tennis",
-            "anything with a net",
-            "sports that have a high barrier to entry - to keep out the commoners",
-            "evolve",
-            "racing(racist) - cars"
-        ],
+        "Activities": {
+            "Evolve": [
+                "evolve",
+                "the company that regulates/fixes sports",
+                "gambling",
+                "Bulldogs > Fresno State > CSUF"
+            ],
+            "Sports": [
+                "tennis",
+                "anything with a net",
+                "sports that have a high barrier to entry - to keep out the commoners",
+                "racing(racist) - cars",
+                "criket - a sport NOBODY cares about",
+                "horse racing"
+            ]
+        },
         "Allies": [
             "Egypt",
             "Israel"
