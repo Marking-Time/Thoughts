@@ -33,7 +33,7 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [Snooze Button](https://github.com/Marking-Time/Thoughts/blob/main/snooze.md)  
 [!=](https://github.com/Marking-Time/Thoughts/blob/main/notEqual.md)  
 [My Co](https://github.com/Marking-Time/Thoughts/blob/main/myCo.md)  
-[International Index]() 
+[International Index](https://github.com/Marking-Time/Thoughts/blob/main/index.md)  
 
  
 
