@@ -183,7 +183,30 @@
                     "Jeffery Bezos - Amazon - shopping cart",
                     "Airlines"
                 ],
-                "Prison gang": "Aryan Brotherhood - AB, It can also be found on the street"
+                "Prison gang": "Aryan Brotherhood - AB, It can also be found on the street",
+                "Cars": {
+                    "Carriages": [
+                        "pulled by horses",
+                        "are used as a status symbol",
+                        "associated with - horses, hay",
+                        "carriage > (c)air age"
+                    ],
+                    "Automobiles": {
+                        "Internal combustion engine ": [
+                            "ICE",
+                            "ICE raids",
+                            "run on gas > gas-lighting",
+                            "oil > royal",
+                            "mechanics > assassins",
+                            "Air pollution - smog"
+                        ]
+                    },
+                    "Carts": [
+                        "used by the royals to harass/control the homeless",
+                        "felony to steal one"
+                    ],
+                    "Transportation": "drugs/guns/humans - slavery"
+                }
             }
         },
         "color": "blue - royal blue",
