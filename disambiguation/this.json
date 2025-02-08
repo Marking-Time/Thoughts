@@ -499,13 +499,24 @@
                 "Family": "the sad family > Assad > Syria > Sear Ya > your fired > burning the bodies of the homeless after elimination",
                 "Money": {
                     "Note": "Trump has been investigated many times for financial irregularities.  It seems the most likely explanation for the wealth is money laundering through his hotels. Hotels are a natural fit for money laundering. They have clients that come and go, so they never get a good look at how things work.  It is easy to create the appearance of traffic with actors.  They deal in allot of cash. It is quite obvious that he didn't make the money through compound interest.",
-                    "Hotels": [
-                        "hotels have laundries",
-                        "a place to - change clothes",
-                        "cheap hotels are best - clients pay in cash and are uneducated thus less likely to spot irregularities and more vulnerable to persuasion",
-                        "old properties are run down and can justify large staffs of employees that can't get gobs elsewhere",
-                        "minorities are under represented among the clients - not on staff at all"
-                    ],
+                    "Hotels": {
+                        "laundry": [
+                            "hotels have laundries",
+                            "a place to - change clothes > change appearance"
+                        ],
+                        "Characteristics": [
+                            "cheap hotels are best - clients pay in cash and are uneducated thus less likely to spot irregularities and more vulnerable to persuasion",
+                            "old properties are run down and can justify large staffs of employees that can't get gobs elsewhere",
+                            "minorities are under represented among the clients - not on staff at all"
+                        ],
+                        "Security": [
+                            "a money laundering hotel needs security",
+                            "security are usually cops because they have local jurisdiction",
+                            "cops can also use the 'undercover' excuse if questioned",
+                            "Eric Desoto > donk > tiny troy > mini-dick",
+                            "cops know exactly what is going on, but are involved and dirty"
+                        ]
+                    },
                     "Properties": [
                         "trump towers",
                         "mir a lago",
@@ -606,5 +617,11 @@
             "Tesla truck fire in Las Vegas - Why didn't the tires burn?. Why didn't the windows break",
             "Hurricane aftermath photos taken the evening of the day of the event - No water lines on the buildings that were flooded. Debris neatly piled up on the street when most people were not even allowed to return to their homes?"
         ]
-    }
+    },
+    "Nazis": [
+        "can usually be identified by the wave/salute - looks like pointing - sometimes waving hands around when talking ",
+        "the walk is often like the goosestep(another bird)",
+        "they also often wear or have associated (hair, bag etc.) the colors red and black",
+        "trump is often seen holding up his fist in a wave"
+    ]
 }
