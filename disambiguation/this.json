@@ -506,16 +506,25 @@
                     "parents from Holland - Dutch"
                 ],
                 "Family": "the sad family > Assad > Syria > Sear Ya > your fired > burning the bodies of the homeless after elimination",
-                "Past Names": [
-                    "Paulina Agusta Caughell",
-                    "Paulina Agusta King",
-                    "Lorry Hurley",
-                    "Lorry Malene Fitzpatrick",
-                    "Lorry Makene King",
-                    "Lorry Boe",
-                    "AKA - patrick",
-                    "Pauline King - Stigler Okla"
-                ],
+                "Past Names": {
+                    "Names": [
+                        "Paulina Agusta Caughell",
+                        "Paulina Agusta King"
+                    ],
+                    "Lorry Malene Hurley": [
+                        "mother - Marie Hurley",
+                        "father - Tom Hurley",
+                        "Sisters : Francie Franklin - married to Bobby Franklin, Terry",
+                        "born in Arkansas"
+                    ],
+                    "Lorry Malene Fitzpatrick": "first husband",
+                    "Lorry Malene King": "wife",
+                    "Lorry Malene Boe": "third husband",
+                    "other names": [
+                        "AKA - patrick",
+                        "Pauline King - Stigler Okla"
+                    ]
+                },
                 "Money": {
                     "Note": "Trump has been investigated many times for financial irregularities.  It seems the most likely explanation for the wealth is money laundering through his hotels. Hotels are a natural fit for money laundering. They have clients that come and go, so they never get a good look at how things work.  It is easy to create the appearance of traffic with actors.  They deal in allot of cash. It is quite obvious that he didn't make the money through compound interest.",
                     "Hotels": {
