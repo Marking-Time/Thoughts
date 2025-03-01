@@ -34,6 +34,7 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [!=](https://github.com/Marking-Time/Thoughts/blob/main/notEqual.md)  
 [My Co](https://github.com/Marking-Time/Thoughts/blob/main/myCo.md)  
 [International Index](https://github.com/Marking-Time/Thoughts/blob/main/index.md)  
+[Domains and AI](https://github.com/Marking-Time/Thoughts/blob/main/Domains-AI.md)   
 
  
 
