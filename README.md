@@ -35,7 +35,7 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [My Co](https://github.com/Marking-Time/Thoughts/blob/main/myCo.md)  
 [International Index](https://github.com/Marking-Time/Thoughts/blob/main/index.md)  
 [Domains and AI](https://github.com/Marking-Time/Thoughts/blob/main/Domains-AI.md)   
-[Agreements](https://github.com/Marking-Time/Thoughts/blob/main/Agreements.md)   
+[Agreements](https://github.com/Marking-Time/Thoughts/blob/main/agreements.md)   
 [Why](https://github.com/Marking-Time/Thoughts/blob/main/why.md)   
 [What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)   
 
