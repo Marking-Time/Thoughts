@@ -1,7 +1,7 @@
 [back to Thoughts](https://github.com/Marking-Time/Thoughts/tree/main)  
 3/7/2025  
 # Problematic
-[Part 1 - Agreements](https://github.com/Marking-Time/Thoughts/blob/main/Agreements.md)   
+[Part 1 - Agreements](https://github.com/Marking-Time/Thoughts/blob/main/agreements.md)   
 [Part 2 - Why](https://github.com/Marking-Time/Thoughts/blob/main/why.md)   
 [Part 3 - What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)   
 
