@@ -4,6 +4,7 @@
 [Part 1 - Agreements](https://github.com/Marking-Time/Thoughts/blob/main/agreements.md)   
 [Part 2 - Why](https://github.com/Marking-Time/Thoughts/blob/main/why.md)   
 [Part 3 - What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)   
+[Part 4 - What was](https://github.com/Marking-Time/Thoughts/blob/main/was.md)   
 
 I spent almost two months hiking in the Sierra Nevada range last summer.  It had been more than a decade since I had spent much time in the Sierra and I knew that at 64 I needed to reacquire those skills or they would be lost to me forever.  
 It was great to be back in nature. After a while I began to notice the changes that had occurred in my absence.  I was in three parts of the range, Yosemite, Shasta and Donner Pass, so I know that my observations were not localized events, but part of a larger problem.   

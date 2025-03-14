@@ -4,6 +4,7 @@
 [Part 1 - Agreements](https://github.com/Marking-Time/Thoughts/blob/main/agreements.md)   
 [Part 2 - Why](https://github.com/Marking-Time/Thoughts/blob/main/why.md)   
 [Part 3 - What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)   
+[Part 4 - What was](https://github.com/Marking-Time/Thoughts/blob/main/was.md)   
 
 ### Eureka!
 By now your wondering. What could have this old geek so worked up? I have written about part of this before.  I mentioned that sometimes things are talked about in the tech and science media and then disappear after a few years of sometimes breathless hype. Usually this has two causes.  First, the science didn't work out. It didn't scale well or their was a flaw somewhere that caused the results to be wrong.  Second, it did in fact work, but it worked so well that the results were hidden for other reasons.  Those reasons often involved national security and not giving away secrets that might be used against us in a war.  This time is different. This time we found it.  The Holy Grail.  The Fountain of Youth.  The cure for cancer. A life span of 120+ years. All rolled up in a nice package.  

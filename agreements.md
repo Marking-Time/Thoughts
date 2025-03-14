@@ -3,7 +3,8 @@
 # Problematic
 [Part 1 - Agreements](https://github.com/Marking-Time/Thoughts/blob/main/agreements.md)   
 [Part 2 - Why](https://github.com/Marking-Time/Thoughts/blob/main/why.md)   
-[Part 3 - What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)   
+[Part 3 - What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)  
+[Part 4 - What was](https://github.com/Marking-Time/Thoughts/blob/main/was.md)    
 
 I generally don't stray into the political. I have reasons for that, many of them personal. I have people that I love and wish to protect and talking about what I know to be true could hurt them. Also, commenting on something that I have no control over, have chosen not to participate in and feel powerless to affect makes me seem whiny - not a good look for me. Finally, this is primarily a tech blog and politics is beyond its scope. I speak now because I can't keep what I know to be true secret. I have to be able to say, at least to myself, that I did what I could.   
 
