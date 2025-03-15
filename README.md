@@ -39,6 +39,7 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [Why](https://github.com/Marking-Time/Thoughts/blob/main/why.md)   
 [What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)   
 [What was](https://github.com/Marking-Time/Thoughts/blob/main/was.md)   
+[WW2 Alternate Battle Plan](https://github.com/Marking-Time/Thoughts/blob/main/ww2-alt.md)   
 
  
 
