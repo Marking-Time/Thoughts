@@ -8,7 +8,7 @@
 
 # Problematic - Part 2
 [Part 5  - Nose](https://github.com/Marking-Time/Thoughts/blob/main/nose.md)   
-[Part 6 - Mist Me!](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)
+[Part 6 - Mist Me!](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)   
 [Part 7 - Fist](https://github.com/Marking-Time/Thoughts/blob/main/fist.md)  
 
 9:14 pm
