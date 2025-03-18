@@ -6,6 +6,11 @@
 [Part 3 - What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)  
 [Part 4 - What was](https://github.com/Marking-Time/Thoughts/blob/main/was.md)    
 
+# Problematic - Part 2
+[Part 5  - Nose](https://github.com/Marking-Time/Thoughts/blob/main/nose.md)   
+[Part 6 - Mist Me!](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)
+[Part 7 - Fist](https://github.com/Marking-Time/Thoughts/blob/main/fist.md)
+
 I generally don't stray into the political. I have reasons for that, many of them personal. I have people that I love and wish to protect and talking about what I know to be true could hurt them. Also, commenting on something that I have no control over, have chosen not to participate in and feel powerless to affect makes me seem whiny - not a good look for me. Finally, this is primarily a tech blog and politics is beyond its scope. I speak now because I can't keep what I know to be true secret. I have to be able to say, at least to myself, that I did what I could.   
 
 Oddly enough, I do have the qualifications to speak here. I have experience, education and training in anthropology and business as well as a long history with law enforcement.  I have the unique perspective of being an outsider with inside knowledge combined with the ability to analyze and communicate what I know to be true.  

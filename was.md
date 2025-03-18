@@ -6,6 +6,11 @@
 [Part 3 - What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)  
 [Part 4 - What was](https://github.com/Marking-Time/Thoughts/blob/main/was.md)   
 
+# Problematic - Part 2
+[Part 5  - Nose](https://github.com/Marking-Time/Thoughts/blob/main/nose.md)   
+[Part 6 - Mist Me!](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)
+[Part 7 - Fist](https://github.com/Marking-Time/Thoughts/blob/main/fist.md)
+
 ### History
 We have a complicated history. Much of it is known like slavery and the civil war. Some of it is not commonly known like how close California was to becoming a slave state before the civil war. You can't say it was suppressed because the books are there, but it is not talked about. The history of the Mexican miners during the gold rush and the theft of Native American land is ignored. It's not quite censorship, you can still publish what you want, but if it isn't part of "what we all know" it becomes political fodder, just an opinion. Some of the wrongs have been addressed while others have been left to fester, leaving scar tissue that not only never heals but becomes multi-generational.  
 

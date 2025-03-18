@@ -40,6 +40,9 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [What is](https://github.com/Marking-Time/Thoughts/blob/main/what_is.md)   
 [What was](https://github.com/Marking-Time/Thoughts/blob/main/was.md)   
 [WW2 Alternate Battle Plan](https://github.com/Marking-Time/Thoughts/blob/main/ww2-alt.md)   
+[Nose](https://github.com/Marking-Time/Thoughts/blob/main/nose.md)    
+[Mist](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)  
+[Fist](https://github.com/Marking-Time/Thoughts/blob/main/fist.md)   
 
  
 
