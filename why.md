@@ -8,8 +8,9 @@
 
 # Problematic - Part 2
 [Part 5  - Nose](https://github.com/Marking-Time/Thoughts/blob/main/nose.md)   
-[Part 6 - Mist Me!](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)
+[Part 6 - Mist Me!](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)   
 [Part 7 - Fist](https://github.com/Marking-Time/Thoughts/blob/main/fist.md)
+[Part 8 - End] (https://github.com/Marking-Time/Thoughts/blob/main/end.md)   
 
 
 I spent almost two months hiking in the Sierra Nevada range last summer.  It had been more than a decade since I had spent much time in the Sierra and I knew that at 64 I needed to reacquire those skills or they would be lost to me forever.  

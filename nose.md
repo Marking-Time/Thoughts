@@ -9,7 +9,8 @@
 # Problematic - Part 2
 [Part 5  - Nose](https://github.com/Marking-Time/Thoughts/blob/main/nose.md)   
 [Part 6 - Mist Me!](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)   
-[Part 7 - Fist](https://github.com/Marking-Time/Thoughts/blob/main/fist.md)  
+[Part 7 - Fist](https://github.com/Marking-Time/Thoughts/blob/main/fist.md)
+[Part 8 - End] (https://github.com/Marking-Time/Thoughts/blob/main/end.md)   
 
 9:14 pm
 I'm tired and mad. This is not a good way for me to write, but I must.  I haven't heard much about this blog except for a few comments, mostly positive, until today. I figured someone would stop me from talking about this, I really did, but the opposite has happened. I have been encouraged. 

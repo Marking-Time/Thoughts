@@ -43,6 +43,8 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [Nose](https://github.com/Marking-Time/Thoughts/blob/main/nose.md)    
 [Mist](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)  
 [Fist](https://github.com/Marking-Time/Thoughts/blob/main/fist.md)   
+[End](https://github.com/Marking-Time/Thoughts/blob/main/end.md)   
+
 
  
 

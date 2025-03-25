@@ -10,6 +10,7 @@
 [Part 5  - Nose](https://github.com/Marking-Time/Thoughts/blob/main/nose.md)   
 [Part 6 - Mist Me!](https://github.com/Marking-Time/Thoughts/blob/main/mist.md)   
 [Part 7 - Fist](https://github.com/Marking-Time/Thoughts/blob/main/fist.md)
+[Part 8 - End] (https://github.com/Marking-Time/Thoughts/blob/main/end.md)   
 
 
 1:42 AM   
