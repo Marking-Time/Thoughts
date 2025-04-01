@@ -17,5 +17,11 @@ ___Routes___
  There are two rather obvious choices for phase I routes.  The first is from Fallon to Carson City along the US route 50 corridor.  It would then turn north to Reno. a bypass for Carson could enable traffic to continue to Reno without stopping at Carson City if that is the travelers destination.   
 The second option uses the I80 corridor to go to Reno first before turning south to Carson City.
 ### The Plan  
-I know the plan is audacious, but given the benefits it might be worth it.  It would definitely be world class project and might even be a part of bringing the Olympics back to the area. 
+I know the plan is audacious, but given the benefits it might be worth it.  It would definitely be world class project and might even be a part of bringing the Olympics back to the area.   
+
+__Hyperloop Advantages___   
+hyperloop technology has an advantage that is not obvious.  The terminals are relatively inexpensive to build. The take up little space and do not require extensive technology.  All you really need is the space necessary to take a capsule off the main tube without loosing vacuum on the tube. It would be fairly easy to automate. The primary concern would be not having a capsule enter the tube at a low speed and colliding with a faster moving capsule. Timing would be essential and also fairly easy to automate.  A station would be much cheaper to build than a small conventional airport.   
+
+This creates some very interesting prospects.  Imagine a small rural community having access to a transportation system with the speed of jet aircraft.
+
  
