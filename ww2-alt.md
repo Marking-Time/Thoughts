@@ -1,8 +1,9 @@
 [back to Thoughts](https://github.com/Marking-Time/Thoughts/tree/main)  
 3/14/2025   
 # World War Two - An Alternate Battle Plan - Europe
-__Or how the movie would have been made by Hollywood__ 
-[Part 2](https://github.com/Marking-Time/Thoughts/blob/main/ww2-alt2.md)  
+__Or how the movie would have been made by Hollywood__   
+[WW2 - Contents](https://github.com/Marking-Time/Thoughts/blob/main/ww2-contents.md)  
+ 
 ### Prologue   
 The Germans made several strategic mistakes during WW2 that wouldn't have happened if Hollywood would have produced the movie.  
 - The recognition that the biggest constraint on the Germans chances for success was access to oil. One of the major reasons Rommel lost in Africa was that his tanks ran low on fuel.  This reduced his ability to maneuver against Montgomery and the British. At that stage in the war the Germans had the oil, but didn't have the ability due to the British control of the Mediterranean Sea.  Also, one of the major reasons the Germans lost the Battle of the Bulge, late in the war, was that their panzer divisions had to source some of their fuel from captured allied depots.  If they had the oil, that wouldn't have forced them to pause in their drive to the North Sea. 

@@ -3,8 +3,7 @@
 # World War Two - An Alternate Battle Plan - Pacific
 __Or how the movie would have been made by Hollywood__ 
 
-[Part 1](https://github.com/Marking-Time/Thoughts/blob/main/ww2-alt.md)  
-[Part 2](https://github.com/Marking-Time/Thoughts/blob/main/ww2-alt2.md)  
+[WW2 - Contents](https://github.com/Marking-Time/Thoughts/blob/main/ww2-contents.md)  
 
 ### Prologue   
 Japan had long desired to be included in the club of modern industrial nations. By the late 1930s they had adopted modern industrial manufacturing techniques and had a significant industrial capacity. In the Japanese worldview that also meant having colonies like European countries and the United States.  
