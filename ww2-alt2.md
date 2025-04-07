@@ -3,7 +3,6 @@
 # World War Two - An Alternate Battle Plan - Europe
 __Or how the movie would have been made by Hollywood__  
 [WW2 - Contents](https://github.com/Marking-Time/Thoughts/blob/main/ww2-contents.md)  
-[WW2 - Part 1](https://github.com/Marking-Time/Thoughts/blob/main/ww2-alt.md)    
 
 ### I Guess We Are Lucky The Fascists Were Stupid   
 __Secret Weapons__   
