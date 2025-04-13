@@ -658,11 +658,14 @@
                 "coughing"
             ]
         },
-        "Will Smith": [
-            "street name - Cowboy - a real piece of shit",
-            "dog fighting",
-            "cockfighting"
-        ],
+        "Will Smith": {
+			"nil":[],
+            "names": [
+                "street name - Cowboy - a real piece of shit",
+                "dog fighting",
+                "cockfighting"
+            ]
+        },
         "Elon Musk": {
             "Michael Avedikian": [
                 "Fashion Furniture > fascist",
