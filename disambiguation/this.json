@@ -371,7 +371,6 @@
             "Torvolds hacked into the tribe and became the fourth member"
         ],
         "People": {
-			
             "Pete Hegseth": {
                 "Birth Name": [
                     "Richard Minor",
@@ -381,11 +380,11 @@
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/gronk.html",
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/parker.html",
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/bourne.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/dillon.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/zalenSKI.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/baily.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/row.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/must-ask.html"					
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/dillon.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/zalenSKI.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/baily.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/row.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/must-ask.html"
                 ],
                 "Accused of": [
                     "Being drunk on the job > drunk is gronk > a football player ",
@@ -523,10 +522,11 @@
                 "nil": [
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/carey.html",
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/jokavich.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/mcbeath.html"
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/mcbeath.html"
                 ]
             },
             "Mark Zuckerberg": {
+				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/peth.html"]
                 "Association": [
                     "Royal, Heir - Gene Hackman",
                     "Fascism - facebook",
@@ -548,7 +548,9 @@
                 ]
             },
             "Donald J Trump": {
-				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/matlock.html"],
+                "nil": [
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/matlock.html"
+                ],
                 "William of Orange": [
                     "William III King of England",
                     "Orange men > orangutan",
@@ -618,7 +620,9 @@
                 }
             },
             "Linus Torvolds": {
-				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/matt.html"],
+                "nil": [
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/matt.html"
+                ],
                 "Linux": [
                     "Linux core - has malware implanted",
                     "has been accused of prioritizing speed(racing) over security ",
@@ -668,19 +672,21 @@
             ]
         },
         "Will Smith": {
-			"nil":[],
+            "nil": [
+            ],
             "names": [
                 "street name - Cowboy - a real piece of shit",
                 "dog fighting",
                 "cockfighting"
             ]
         },
-		"Gavin Newsome":{
-			"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/rose.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/candy.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/house.html"
-			]
-		},
+        "Gavin Newsome": {
+            "nil": [
+                "https://marking-time.github.io/Thoughts/disambiguation/dis/rose.html",
+                "https://marking-time.github.io/Thoughts/disambiguation/dis/candy.html",
+                "https://marking-time.github.io/Thoughts/disambiguation/dis/house.html"
+            ]
+        },
         "Elon Musk": {
             "Michael Avedikian": [
                 "Fashion Furniture > fascist",
