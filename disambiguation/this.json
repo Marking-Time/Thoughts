@@ -526,7 +526,9 @@
                 ]
             },
             "Mark Zuckerberg": {
-				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/peth.html"]
+				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/peth.html",
+						"https://marking-time.github.io/Thoughts/disambiguation/dis/gib.html"
+				],
                 "Association": [
                     "Royal, Heir - Gene Hackman",
                     "Fascism - facebook",
