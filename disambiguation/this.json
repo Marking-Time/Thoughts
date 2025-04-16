@@ -371,6 +371,7 @@
             "Torvolds hacked into the tribe and became the fourth member"
         ],
         "People": {
+			
             "Pete Hegseth": {
                 "Birth Name": [
                     "Richard Minor",
@@ -617,6 +618,7 @@
                 }
             },
             "Linus Torvolds": {
+				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/matt.html"],
                 "Linux": [
                     "Linux core - has malware implanted",
                     "has been accused of prioritizing speed(racing) over security ",
