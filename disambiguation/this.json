@@ -384,7 +384,8 @@
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/zalenSKI.html",
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/baily.html",
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/row.html",
-                    "https://marking-time.github.io/Thoughts/disambiguation/dis/must-ask.html"
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/must-ask.html",
+					"https://marking-time.github.io/Thoughts/disambiguation/dis/pin.html"
                 ],
                 "Accused of": [
                     "Being drunk on the job > drunk is gronk > a football player ",
@@ -526,7 +527,11 @@
                 ]
             },
 			"Jerome Powell":{
-				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/kud.html"]
+				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/kud.html",
+						"https://marking-time.github.io/Thoughts/disambiguation/dis/satoshi.html",
+						"https://marking-time.github.io/Thoughts/disambiguation/dis/lin.html"
+						
+				]
 			},
             "Mark Zuckerberg": {
 				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/peth.html",
