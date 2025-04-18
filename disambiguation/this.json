@@ -385,7 +385,7 @@
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/baily.html",
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/row.html",
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/must-ask.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/pin.html"
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/pin.html"
                 ],
                 "Accused of": [
                     "Being drunk on the job > drunk is gronk > a football player ",
@@ -526,18 +526,20 @@
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/mcbeath.html"
                 ]
             },
-			"Jerome Powell":{
-				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/kud.html",
-						"https://marking-time.github.io/Thoughts/disambiguation/dis/satoshi.html",
-						"https://marking-time.github.io/Thoughts/disambiguation/dis/lin.html"
-						
-				]
-			},
+            "Jerome Powell": {
+                "nil": [
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/kud.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/satoshi.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/lin.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/she.html"
+                ]
+            },
             "Mark Zuckerberg": {
-				"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/peth.html",
-						"https://marking-time.github.io/Thoughts/disambiguation/dis/gib.html",
-						"https://marking-time.github.io/Thoughts/disambiguation/dis/port.html"
-				],
+                "nil": [
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/peth.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/gib.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/port.html"
+                ],
                 "Association": [
                     "Royal, Heir - Gene Hackman",
                     "Fascism - facebook",
@@ -633,7 +635,7 @@
             "Linus Torvolds": {
                 "nil": [
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/matt.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/jud.html"
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/jud.html"
                 ],
                 "Linux": [
                     "Linux core - has malware implanted",
