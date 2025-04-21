@@ -633,17 +633,18 @@
                     ]
                 }
             },
-			"Jerry Dyer":{
-				"nil":[
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/glasco.html"
-				]
-			},
-			
+            "Jerry Dyer": {
+                "nil": [
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/glasco.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/harrell.html",
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/phill.html"
+                ]
+            },
             "Linus Torvolds": {
                 "nil": [
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/matt.html",
                     "https://marking-time.github.io/Thoughts/disambiguation/dis/jud.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/sister.html"
+                    "https://marking-time.github.io/Thoughts/disambiguation/dis/sister.html"
                 ],
                 "Linux": [
                     "Linux core - has malware implanted",
@@ -684,9 +685,10 @@
             "Nickname": "The Chump > Chimp > The orange monkey"
         },
         "Anthony Fouci": {
-			"nil":["https://marking-time.github.io/Thoughts/disambiguation/dis/matt.html",
-					"https://marking-time.github.io/Thoughts/disambiguation/dis/rfk.html"
-			],
+            "nil": [
+                "https://marking-time.github.io/Thoughts/disambiguation/dis/matt.html",
+                "https://marking-time.github.io/Thoughts/disambiguation/dis/rfk.html"
+            ],
             "Accused of": [
                 "creating the AIDs virus to attack gay people",
                 "possible originator of Covid 19 and the bird flu"
@@ -698,7 +700,8 @@
         },
         "Will Smith": {
             "nil": [
-				"https://marking-time.github.io/Thoughts/disambiguation/dis/canady.html"
+                "https://marking-time.github.io/Thoughts/disambiguation/dis/canady.html",
+                "https://marking-time.github.io/Thoughts/disambiguation/dis/woods.html"
             ],
             "names": [
                 "street name - Cowboy - a real piece of shit",
