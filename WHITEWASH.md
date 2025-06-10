@@ -1,5 +1,5 @@
 [back to Thoughts](https://github.com/Marking-Time/Thoughts/tree/main)  
-6/4/2025
+6/4/2025   
 # Special Note
 By now you know who I am. If you poke around this site for a while you can find a picture of me, an old white man who looks just a little pissed off. 
 

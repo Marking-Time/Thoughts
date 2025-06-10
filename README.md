@@ -47,7 +47,7 @@ Disambiguation can be found [here.](https://github.com/Marking-Time/Thoughts/blo
 [WW2 - 2](https://github.com/Marking-Time/Thoughts/blob/main/ww2-alt2.md)    
 [Sierra Toboggan](https://github.com/Marking-Time/Thoughts/blob/main/tobaggan.md)   
 [WHITEWASH](https://github.com/Marking-Time/Thoughts/blob/main/WHITEWASH.md)   
-
+[Fake Jesus](https://github.com/Marking-Time/Thoughts/blob/main/jesus.md)   
 
 
 
