@@ -584,7 +584,18 @@
                         "born in Arkansas",
                         "Mike Avedikian > Elon Musk - boyfriend"
                     ],
-                    "Lorry Malene Fitzpatrick": ["first husband", "from LA > Ellie > Ellie on The Beverly Hillbillies " ],
+                    "Lorry Malene Fitzpatrick": {
+                        "notes": [
+                            "first husband",
+                            "from LA > Ellie > Ellie on The Beverly Hillbillies "
+                        ],
+                        "Past roles": [
+                            "Fresno County sheriff",
+                            "uses cherry as nickname",
+                            "performs the chair when prostituting",
+                            "uses knocks as a call sign - knocking or slamming doors - meant to replicate the slamming of the jail door"
+                        ]
+                    },
                     "Lorry Malene King": "wife",
                     "Lorry Malene Boe": "third husband",
                     "Paul Stack": [
@@ -717,9 +728,8 @@
                 "https://marking-time.github.io/Thoughts/disambiguation/dis/candy.html",
                 "https://marking-time.github.io/Thoughts/disambiguation/dis/house.html"
             ],
-			"address":"2406 Prater Way, Sparks NV, Room 156",
-			"Notes":"Newsome has a few tells.  One is his hair which is always poofed up and extensively styled. He also routinely makes hand gestures, often with a nazi like salute."
-			
+            "address": "2406 Prater Way, Sparks NV, Room 156",
+            "Notes": "Newsome has a few tells.  One is his hair which is always poofed up and extensively styled. He also routinely makes hand gestures, often with a nazi like salute."
         },
         "Elon Musk": {
             "nil": [
